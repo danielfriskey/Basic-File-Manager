@@ -14,5 +14,4 @@ Designed to be super simple, drop and go.<br>
   <li>Font Awesome 6 Beta</li>
 </ul>
 
-<br>
 ![File-Manager-03-11-2025_04_11_PM](https://github.com/user-attachments/assets/bedbcde8-7512-4ae7-bb93-ac3fdd9b0656)
