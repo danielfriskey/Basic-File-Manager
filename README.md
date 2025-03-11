@@ -14,4 +14,14 @@ Designed to be super simple, drop and go.<br>
   <li>Font Awesome 6 Beta</li>
 </ul>
 
+<h2>Key features</h2>
+
+<ul>
+  <li>Upload files</li>
+  <li>Copy link to files</li>
+  <li>Rename files</li>
+  <li>Delete files</li>
+  <li>Filter and sort files</li>
+</ul>
+
 ![File-Manager-03-11-2025_04_11_PM](https://github.com/user-attachments/assets/bedbcde8-7512-4ae7-bb93-ac3fdd9b0656)
