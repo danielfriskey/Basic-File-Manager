@@ -9,11 +9,18 @@
 	$allowed_mime_types = [
 		'image/jpeg',
 		'image/png',
-		'image/gif'
+		'image/gif',
+		'model/stl',
+		'model/x.stl-ascii',
+		'model/x.stl-binary',
+		'application/sla',
+		'application/octet-stream',
+		'video/mp4'
 	];
-	$allowed_extensions = ['jpg', 'jpeg', 'png', 'gif'];
+	$allowed_extensions = ['jpg', 'jpeg', 'png', 'gif', 'stl', 'mp4'];
 	
 	// Array of file names to ignore (add any others as needed)
 	$ignored_files = ['index.html'];
 	
+
 ?>
